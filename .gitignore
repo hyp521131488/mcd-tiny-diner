@@ -1,0 +1,19 @@
+# 密钥与凭证（严禁提交）
+.env
+*.env
+mcp-config.json
+*mcp-config.local.json
+*.token
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
